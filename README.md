@@ -1,4 +1,4 @@
-Rock Paper Scissors Game
+                                           Rock Paper Scissors Game
 
 A simple and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 
@@ -19,15 +19,7 @@ Technologies Used
 HTML
 CSS
 JavaScript
-Project Structure
-project-folder/
-│
-├── index.html
-├── rock-paper.css
-├── rock-paper.js
-├── rock-emoji.png
-├── paper-emoji.png
-└── scissors-emoji.png
+
 
 How to Run the Project
 Download or clone the repository
